@@ -1,0 +1,92 @@
+.form-item {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    float: left;
+}
+
+.form-left {
+    width: 25% !important;
+    float: left;
+    padding: 6px 0px;
+}
+
+.form-right {
+    width: 75%;
+    float: left;
+}
+
+.form-select {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    position: relative;
+    float: right;
+}
+
+.form-select-cr {
+    width: 100%;
+    padding: 2px;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    float: right;
+}
+
+.txtbox {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    position: relative;
+    float: right;
+}
+
+#buttons {
+    font-size: 1.4em;
+    text-align: center;
+    padding-top: 25px;
+    overflow: hidden;
+    display: block;
+    clear: both;
+}
+
+.greenbtn {
+    font-size: 0.7em;
+    background-color: #4CAF50;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 7px;
+    color: #fff;
+    width: 25%;
+    float: center;
+    border-radius: 0px;
+    border: 2px solid #4CAF50;
+}
+
+.orangebtn {
+    font-size: 0.7em;
+    background-color: #EF6C00;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 7px;
+    color: #fff;
+    border-radius: 0px;
+    width: 25%;
+    float: center;
+    border: 2px solid #EF6C00;
+}
+
+.txtarea {
+    width: 100%;
+    padding: 6px 10px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    position: relative;
+    float: right;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    resize: vertical !important;
+}
